@@ -67,9 +67,6 @@ export default {
       this.isOpen = false;
     }
   },
-  props: {
-    msg: String
-  }
 };
 </script>
 
