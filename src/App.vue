@@ -10,7 +10,7 @@ import AutoComplete from './components/AutoComplete.vue'
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    AutoComplete
   }
 }
 </script>
