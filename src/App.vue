@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <AutoComplete msg="Welcome to Your Vue.js App"/>
+    <AutoComplete />
   </div>
 </template>
 
